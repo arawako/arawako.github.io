@@ -1,8 +1,8 @@
 # Site settings
 title: Er Blog de Arawako
 description: 'Conocimiento y cultura libre'
-url: 'http://arawako.com'
-baseurl: '/'
+url: 'http://www.arawako.com'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
