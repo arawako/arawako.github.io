@@ -3331,10 +3331,10 @@
 /* Banner */
 
 	#banner {
-		-moz-align-items: center;
-		-webkit-align-items: center;
-		-ms-align-items: center;
-		align-items: center;
+		-moz-align-items: center center;
+		-webkit-align-items: center center;
+		-ms-align-items: center center;
+		align-items: center center;
 		background-image: url("../images/banner.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3342,7 +3342,7 @@
 		display: flex;
 		padding: 6em 0 2em 0 ;
 		background-attachment: fixed;
-		background-position: center bottom;
+		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		border-bottom: 0 !important;
