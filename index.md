@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is José, José Subero
+landing-title: My name is José, José Subero.
 description:
 image:
 author:
