@@ -13,11 +13,11 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.arawako.com" # the base hostname & protocol for your site
 author: José Leonel SUbero Gamarra
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address:
+city: Caracas
+state: DC
+zip_code: 1001
+country: Venezuela
 phone: (716) 555-5555
 
 # Plugins
