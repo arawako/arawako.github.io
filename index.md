@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
-description: 
-image: 
-author: 
-nav-menu: 
+landing-title: Hi, my name is José, José Subero
+description:
+image:
+author:
+nav-menu:
 ---
 
 <!-- Banner -->
@@ -43,4 +43,3 @@ nav-menu:
 </section>
 
 </div>
-
