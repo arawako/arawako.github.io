@@ -8,10 +8,10 @@
 # Site settings
 title-bold: Er' Blog de Arawako
 title-normal: Be Free!
-email: arawako@gmail.com
+email: contacto@arawako.xyz
 description: Another site of a sysadmin Venezuelan pro free software, with content released with creative commons license.
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://www.arawako.com" # the base hostname & protocol for your site
+url: "https://www.arawako.xyz" # the base hostname & protocol for your site
 author: José Leonel SUbero Gamarra
 street_address:
 city: Caracas
