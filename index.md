@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: arawako.xyz
 landing-title: My name is José, José Subero.
 description:
 image:
