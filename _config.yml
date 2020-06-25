@@ -1,5 +1,7 @@
 # Site settings
-title: Er' blog de Arawako, be Free!
+title: |
+    Er' blog de Arawako
+    be Free!
 description: 'Another site of a Venezuelan system administrator, pro Free Software'
 url: 'https://arawako.uk.to'
 baseurl: '/'
