@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+/docker-compose.yml
+/Gem*
+/index.html
+/screenshot.png
