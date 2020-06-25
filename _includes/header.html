@@ -27,6 +27,16 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
+            {% if site.author.instagram_username %}
+              <!-- Twitter -->
+              <li class="navigation__item">
+                <a href="https://www.instagram.com/{{ site.author.instagram_username }}" title="@{{ site.author.instagram_username }} on Instagramr" target="_blank">
+                  <i class="icon icon-social-instagram"></i>
+                  <span class="label">Instagram</span>
+                </a>
+              </li>
+            {% endif %}
+
             {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">
