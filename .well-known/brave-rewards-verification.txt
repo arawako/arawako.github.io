@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: arawako.xyz
+Token: 5385bb36b34c432e61ecb68127dc82cf2bdbf39d38adc753f99bb93ddbc9a76d
