@@ -1,3 +1,9 @@
+---
+layout: post
+title: Azure Cloud - Capítulo 1
+description: Conceptos Básicos
+---
+
 ## ¿Qué son las nubes pública, privada e híbrida?
 
 Hay tres modelos de implementación para la informática en la nube: *nube pública*, *nube privada* y *nube híbrida*. Cada modelo de implementación tiene distintos aspectos que debe tener en cuenta a la hora de migrar a la nube.
