@@ -5,8 +5,6 @@ description: Azure Cloud - Capítulo 1
 ---
 Hay tres modelos de implementación para la informática en la nube: *nube pública*, *nube privada* y *nube híbrida*. Cada modelo de implementación tiene distintos aspectos que debe tener en cuenta a la hora de migrar a la nube.
 
-**Modelo de implementación**
-
 **Descripción**
 
 **Nube pública**
@@ -23,19 +21,19 @@ Una nube híbrida es un entorno informático que combina una nube pública y una
 
 ## Comparación de modelos de nube
 
-### Nube pública
+#### Nube pública
 
 - No hay gastos de capital para escalar verticalmente.
 - Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente.
 - Las organizaciones solo pagan por lo que usan.
 
-### Nube privada
+#### Nube privada
 
 - Debe adquirirse hardware para el inicio y el mantenimiento.
 - Las organizaciones tienen un control total de los recursos y la seguridad.
 - Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware.
 
-### Nube híbrida
+#### Nube híbrida
 
 - Proporciona la máxima flexibilidad.
 - Las organizaciones determinan dónde se van a ejecutar sus aplicaciones.
