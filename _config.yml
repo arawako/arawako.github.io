@@ -5,7 +5,7 @@ title: |
 description: 'Another site of a Venezuelan system administrator, pro Free Software'
 url: 'https://arawako.uk.to'
 baseurl: '/'
- google_analytics: 'UA-17995730-2'
+google_analytics: 'UA-17995730-2'
 # disqus_shortname: 'your-disqus-name'
 
 author:
@@ -29,7 +29,7 @@ defaults:
 # Build settings
 destination: _site
 paginate: 10
-permalink: /:year/:title/
+permalink: /:year/:title
 markdown: kramdown
 highlighter: rouge
 
